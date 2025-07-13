@@ -115,10 +115,5 @@ If you liked the project or want to suggest improvements, feel free to open an i
 
 ---
 
-## 📌 License
-
-This project is under the [MIT License](LICENSE).
-
----
 
 Thank you for exploring ResumeGenius AI! 💼✨
