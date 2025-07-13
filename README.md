@@ -32,7 +32,7 @@ ResumeGenius AI is a web-based application that empowers users to effortlessly g
 
 We used the **Resume Dataset** from Kaggle which contains structured resumes categorized into job domains along with sample resumes in `.pdf` format:
 
-🔗 [Kaggle Resume Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/resume-dataset)
+🔗 [Kaggle Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?select=data)
 
 ---
 
