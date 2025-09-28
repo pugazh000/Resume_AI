@@ -1,5 +1,0 @@
-gradio
-pymupdf
-scikit-learn
-numpy
-pandas
