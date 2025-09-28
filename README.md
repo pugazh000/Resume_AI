@@ -1,9 +1,4 @@
----
-t: gradio
-license: mit
-title: Resume_AI
-sdk: gradio
----
+
 # 🚀 ResumeGenius AI - Smart Resume Builder & Matcher
 
 **Empower your career with AI!**
